@@ -47,7 +47,7 @@ const HEROES: Hero[] = [
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Tour of Heroes';
+  title = 'Heroes';
   heroes = HEROES;
   selectedHero: Hero;
 
